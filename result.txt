@@ -1,0 +1,109 @@
+#1
+Bloom Filter created.
+Bloom Filter parameters: n = 100000000, p = 0.01, m = 958505838, k = 7
+Inserting 100000000 items into the Bloom Filter.
+Inserting items: 100%|█████████████████████████████████████████████████████████| 100000000/100000000 [00:03<00:00, 29905230.68items/s] 
+Testing 100000000 items against the Bloom Filter.
+Testing items: 100%|███████████████████████████████████████████████████████████| 100000000/100000000 [00:03<00:00, 31680143.47items/s] 
+Total errors: 738556
+False positive rate: 0.0073856
+Expected false positive rate: 0.0100000
+
+#2
+Bloom Filter created.
+Bloom Filter parameters: n = 100000000, p = 0.01, m = 958505838, k = 7
+Inserting 100000000 items into the Bloom Filter.
+Inserting items: 100%|█████████████████████████████████████████████████████████| 100000000/100000000 [00:02<00:00, 40608364.87items/s] 
+Testing 100000000 items against the Bloom Filter.
+Testing items: 100%|███████████████████████████████████████████████████████████| 100000000/100000000 [00:01<00:00, 55770276.09items/s] 
+Total errors: 739047
+False positive rate: 0.0073905
+Expected false positive rate: 0.0100000
+
+#3
+Bloom Filter created.
+Bloom Filter parameters: n = 100000000, p = 0.01, m = 958505838, k = 7
+Inserting 100000000 items into the Bloom Filter.
+Inserting items: 100%|█████████████████████████████████████████████████████████| 100000000/100000000 [00:02<00:00, 39432510.10items/s] 
+Testing 100000000 items against the Bloom Filter.
+Testing items: 100%|███████████████████████████████████████████████████████████| 100000000/100000000 [00:01<00:00, 53746365.27items/s] 
+Total errors: 738899
+False positive rate: 0.0073890
+Expected false positive rate: 0.0100000
+
+#4
+Bloom Filter created.
+Bloom Filter parameters: n = 100000000, p = 0.01, m = 958505838, k = 7
+Inserting 100000000 items into the Bloom Filter.
+Inserting items: 100%|█████████████████████████████████████████████████████████| 100000000/100000000 [00:03<00:00, 33233007.67items/s] 
+Testing 100000000 items against the Bloom Filter.
+Testing items: 100%|███████████████████████████████████████████████████████████| 100000000/100000000 [00:02<00:00, 42754913.04items/s] 
+Total errors: 740156
+False positive rate: 0.0074016
+Expected false positive rate: 0.0100000
+
+#5
+Bloom Filter created.
+Bloom Filter parameters: n = 100000000, p = 0.01, m = 958505838, k = 7
+Inserting 100000000 items into the Bloom Filter.
+Inserting items: 100%|█████████████████████████████████████████████████████████| 100000000/100000000 [00:02<00:00, 34154521.48items/s] 
+Testing 100000000 items against the Bloom Filter.
+Testing items: 100%|███████████████████████████████████████████████████████████| 100000000/100000000 [00:01<00:00, 55103170.38items/s] 
+Total errors: 738318
+False positive rate: 0.0073832
+Expected false positive rate: 0.0100000
+
+#6
+Bloom Filter created.
+Bloom Filter parameters: n = 100000000, p = 0.01, m = 958505838, k = 7
+Inserting 100000000 items into the Bloom Filter.
+Inserting items: 100%|█████████████████████████████████████████████████████████| 100000000/100000000 [00:02<00:00, 38155732.52items/s] 
+Testing 100000000 items against the Bloom Filter.
+Testing items: 100%|███████████████████████████████████████████████████████████| 100000000/100000000 [00:01<00:00, 53540057.35items/s] 
+Total errors: 739028
+False positive rate: 0.0073903
+Expected false positive rate: 0.0100000
+
+#7
+Bloom Filter created.
+Bloom Filter parameters: n = 100000000, p = 0.01, m = 958505838, k = 7
+Inserting 100000000 items into the Bloom Filter.
+Inserting items: 100%|█████████████████████████████████████████████████████████| 100000000/100000000 [00:02<00:00, 38833185.32items/s] 
+Testing 100000000 items against the Bloom Filter.
+Testing items: 100%|███████████████████████████████████████████████████████████| 100000000/100000000 [00:01<00:00, 55047701.27items/s] 
+Total errors: 739290
+False positive rate: 0.0073929
+Expected false positive rate: 0.0100000
+
+#8
+Bloom Filter created.
+Bloom Filter parameters: n = 100000000, p = 0.01, m = 958505838, k = 7
+Inserting 100000000 items into the Bloom Filter.
+Inserting items: 100%|█████████████████████████████████████████████████████████| 100000000/100000000 [00:02<00:00, 40478827.70items/s] 
+Testing 100000000 items against the Bloom Filter.
+Testing items: 100%|███████████████████████████████████████████████████████████| 100000000/100000000 [00:01<00:00, 57364310.55items/s] 
+Total errors: 737684
+False positive rate: 0.0073768
+Expected false positive rate: 0.0100000
+
+#9
+Bloom Filter created.
+Bloom Filter parameters: n = 100000000, p = 0.01, m = 958505838, k = 7
+Inserting 100000000 items into the Bloom Filter.
+Inserting items: 100%|█████████████████████████████████████████████████████████| 100000000/100000000 [00:02<00:00, 40195361.75items/s] 
+Testing 100000000 items against the Bloom Filter.
+Testing items: 100%|███████████████████████████████████████████████████████████| 100000000/100000000 [00:01<00:00, 56801761.73items/s] 
+Total errors: 738850
+False positive rate: 0.0073885
+Expected false positive rate: 0.0100000
+
+#10
+Bloom Filter created.
+Bloom Filter parameters: n = 100000000, p = 0.01, m = 958505838, k = 7
+Inserting 100000000 items into the Bloom Filter.
+Inserting items: 100%|█████████████████████████████████████████████████████████| 100000000/100000000 [00:02<00:00, 39761795.38items/s] 
+Testing 100000000 items against the Bloom Filter.
+Testing items: 100%|███████████████████████████████████████████████████████████| 100000000/100000000 [00:01<00:00, 59272457.18items/s] 
+Total errors: 738371
+False positive rate: 0.0073837
+Expected false positive rate: 0.0100000
