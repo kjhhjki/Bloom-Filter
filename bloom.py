@@ -73,6 +73,7 @@ class BloomFilter:
     def batch_contains(self, items : np.ndarray) -> np.ndarray:
         return bloomfilter__batch_contains(self.bit_array, items, self.k, self.m)
 
-    def signin(self, item : bytes): 
+    def signin(self, item : np.uint64): 
         if (not self.contains(item)):
+
             self.insert(item)
